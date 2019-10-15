@@ -1,0 +1,30 @@
+{
+  "name": "jsddbs",
+  "version": "0.1.0",
+  "description": "JavaScript Distributed Database Server",
+  "main": "Database.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdking/JSDDBS.git"
+  },
+  "keywords": [
+    "javascript",
+    "database",
+    "server"
+  ],
+  "author": "Ranando D. King",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rdking/JSDDBS/issues"
+  },
+  "homepage": "https://github.com/rdking/JSDDBS#readme",
+  "dependencies": {
+    "classicjs": "git+https://github.com/rdking/ClassicJS.git"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
